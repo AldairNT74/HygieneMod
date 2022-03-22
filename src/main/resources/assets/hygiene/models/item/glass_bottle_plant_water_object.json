@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "hygiene:items/glass_bottle_plant_water"
+  }
+}

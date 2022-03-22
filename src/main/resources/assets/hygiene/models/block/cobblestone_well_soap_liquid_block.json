@@ -1,0 +1,9 @@
+{
+  "parent": "hygiene:custom/cobblestone_well_soap_liquid",
+  "textures": {
+    "all": "hygiene:blocks/soap_texture",
+    "particle": "hygiene:blocks/soap_texture",
+    "0": "hygiene:blocks/cobblestone",
+    "1": "hygiene:blocks/soap_liquid"
+  }
+}

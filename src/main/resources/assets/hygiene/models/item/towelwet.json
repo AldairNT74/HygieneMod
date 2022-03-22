@@ -1,0 +1,7 @@
+{
+  "parent": "hygiene:custom/towel_wet",
+  "textures": {
+    "0": "hygiene:blocks/leather_wet",
+    "particle": "hygiene:items/leather_wet"
+  }
+}

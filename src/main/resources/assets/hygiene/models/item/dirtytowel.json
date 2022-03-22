@@ -1,0 +1,7 @@
+{
+  "parent": "hygiene:custom/dirty_towel",
+  "textures": {
+    "0": "hygiene:blocks/dirty_towel",
+    "particle": "hygiene:items/dirty_towel_icon"
+  }
+}

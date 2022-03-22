@@ -1,0 +1,20 @@
+{
+  "shower": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "hygiene:shower",
+        "stream": false
+      }
+    ]
+  },
+  "shower2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "hygiene:final_620bd7566d51e6007f699628_451745",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "hygiene:glass_bottle_plant_water_object"
+  },
+  "result": {
+    "item": "hygiene:glass_bottle_soap_liquid_object"
+  }
+}

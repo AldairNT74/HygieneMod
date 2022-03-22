@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hygiene:block/shower_4reverse"
+    },
+    "facing=east": {
+      "model": "hygiene:block/shower_4reverse",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hygiene:block/shower_4reverse",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hygiene:block/shower_4reverse",
+      "y": 270
+    }
+  }
+}

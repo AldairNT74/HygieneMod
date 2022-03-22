@@ -1,0 +1,9 @@
+{
+  "parent": "hygiene:custom/shower_top_true_2",
+  "textures": {
+    "all": "hygiene:blocks/oak_log",
+    "particle": "hygiene:blocks/oak_log",
+    "0": "hygiene:blocks/oak_log",
+    "1": "hygiene:blocks/cobblestone"
+  }
+}

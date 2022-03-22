@@ -1,0 +1,7 @@
+{
+  "parent": "hygiene:custom/soap",
+  "textures": {
+    "0": "hygiene:blocks/soap_texture",
+    "particle": "hygiene:items/soap_model_3d"
+  }
+}

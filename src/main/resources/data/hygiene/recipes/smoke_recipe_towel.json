@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "hygiene:towelwet"
+  },
+  "result": {
+    "item": "hygiene:towel"
+  }
+}

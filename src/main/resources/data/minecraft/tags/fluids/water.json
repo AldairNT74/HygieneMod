@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "hygiene:clean_water",
+    "hygiene:clean_water_flowing"
+  ]
+}

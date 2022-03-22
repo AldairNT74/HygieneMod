@@ -1,0 +1,8 @@
+{
+  "parent": "hygiene:custom/cobblestone_well",
+  "textures": {
+    "all": "hygiene:blocks/cobblestone",
+    "particle": "hygiene:blocks/cobblestone",
+    "0": "hygiene:blocks/cobblestone"
+  }
+}

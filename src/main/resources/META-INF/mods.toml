@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="hygiene"
+version="0.052"
+displayName="Hygiene"
+credits="https://www.curseforge.com/members/aldairnt74/projects"
+displayURL="https://www.curseforge.com/members/aldairnt74/projects"
+logoFile="logo.png"
+authors="AldairNT74"
+description='''
+This mod adds Hygiene Cleansing the body being able to bathe and a dirt bar
+'''
+
+[[dependencies.hygiene]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

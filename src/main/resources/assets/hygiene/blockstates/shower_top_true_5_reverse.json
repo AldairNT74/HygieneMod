@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hygiene:block/shower_top_true_5_reverse"
+    },
+    "facing=east": {
+      "model": "hygiene:block/shower_top_true_5_reverse",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hygiene:block/shower_top_true_5_reverse",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hygiene:block/shower_top_true_5_reverse",
+      "y": 270
+    }
+  }
+}
