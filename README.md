@@ -16,3 +16,11 @@
 · Add a hygiene bar.
 
 ![Gui-Bar-Hygiene](https://user-images.githubusercontent.com/60050016/159534940-f2bda38f-f35b-4783-8f78-980c0e0bbb7e.png)
+
+· Add a towel so that it can dry when you are warned that it is wet, you have to dry it with an oven or smoker.
+
+· An object was added when you get wet and dirty wing.
+
+![LeatherIcon](https://user-images.githubusercontent.com/60050016/159535972-d02d4f76-dfb8-446a-8554-9a0f4432c850.png)
+![towel_wet](https://user-images.githubusercontent.com/60050016/159535981-b434167d-6436-40e9-b22a-78aee6c1e305.png)
+![Dirty_towel_icon](https://user-images.githubusercontent.com/60050016/159536006-c5e0d680-ffdd-4a08-b2dc-d035b19655b5.png)
