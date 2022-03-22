@@ -31,4 +31,4 @@
 
 Everything else complete in: https://www.curseforge.com/minecraft/mc-mods/hygiene
 
-<p><a href="https://www.curseforge.com/minecraft/mc-mods/hygiene" rel="nofollow"><img src="https://i.ibb.co/sF3gmX2/curse.png" width="166" height="32" /></a></p>
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/hygiene" rel="nofollow"><img src="https://i.ibb.co/sF3gmX2/curse.png" width="166" height="64" /></a></p>
