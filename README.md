@@ -11,7 +11,7 @@
 
 · Add a bucket of purified water so you can bathe, you have to put it under the shower.
 
-![Clean Water Bucket](https://user-images.githubusercontent.com/60050016/159534695-2f195f32-3ba3-49a9-93ca-7ce5eef2d98e.png)
+![Clean-Water-Icon](https://user-images.githubusercontent.com/60050016/159535178-b293a289-f082-476d-950c-a8e125a35a53.png)
 
 · Add a hygiene bar.
 
