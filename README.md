@@ -30,3 +30,5 @@
 ![Captura-de-pantalla-2022-02-26-234229](https://user-images.githubusercontent.com/60050016/159536575-86237a5a-91e9-4484-b647-302435340c2a.png)
 
 Everything else complete in: https://www.curseforge.com/minecraft/mc-mods/hygiene
+
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/hygiene" rel="nofollow"><img src="https://i.ibb.co/sF3gmX2/curse.png" width="166" height="32" /></a></p>
