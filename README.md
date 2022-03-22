@@ -23,4 +23,4 @@
 
 ![LeatherIcon](https://user-images.githubusercontent.com/60050016/159535972-d02d4f76-dfb8-446a-8554-9a0f4432c850.png)
 ![towel_wet](https://user-images.githubusercontent.com/60050016/159535981-b434167d-6436-40e9-b22a-78aee6c1e305.png)
-![Dirty_towel_icon](https://user-images.githubusercontent.com/60050016/159536006-c5e0d680-ffdd-4a08-b2dc-d035b19655b5.png)
+![Dirty_towel_photo](https://user-images.githubusercontent.com/60050016/159536086-e8f9f4dd-5c76-4dc9-979a-a0563c04c178.png)
