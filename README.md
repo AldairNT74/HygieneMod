@@ -21,9 +21,9 @@
 
 · An object was added when you get wet and dirty wing.
 
-![LeatherIcon](https://user-images.githubusercontent.com/60050016/159535972-d02d4f76-dfb8-446a-8554-9a0f4432c850.png)
-![towel_wet](https://user-images.githubusercontent.com/60050016/159535981-b434167d-6436-40e9-b22a-78aee6c1e305.png)
-![Dirty_towel_photo](https://user-images.githubusercontent.com/60050016/159536086-e8f9f4dd-5c76-4dc9-979a-a0563c04c178.png)
+![towel](https://user-images.githubusercontent.com/60050016/160214747-7bee2d94-a7e6-404d-af03-9ccdbefd1c35.png)
+![towel_wet](https://user-images.githubusercontent.com/60050016/160214751-7e3dd7e6-25df-46f2-b4fd-8683718b6ad7.png)
+![towel_wet_dirty](https://user-images.githubusercontent.com/60050016/160214756-a8792b4d-4121-425f-9173-f27d5c9fdec2.png)
 
 · Add a setting in the minecraft folder so you can set it up to your liking. Examples: configure how much you get dirty when breaking blocks or using blocks or objects or stepping on objects.
 
