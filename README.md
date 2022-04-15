@@ -5,9 +5,9 @@
 
 · Add a shower where you can bathe to clean all the dirt you have.	
 
-![Shower_Top_ICON_image](https://user-images.githubusercontent.com/60050016/159534206-43c4a35d-1ea0-4b52-803d-8be0daf7eb5f.png)
+![ShowerClose](https://user-images.githubusercontent.com/60050016/163497227-4a8239be-6d3b-4a77-8e41-ef0afb726530.png)
 
-![Shower_Top_ICON2](https://user-images.githubusercontent.com/60050016/159534293-707179fc-3103-4474-a386-bb54c6a027d6.png)
+![OpenShower](https://user-images.githubusercontent.com/60050016/163497200-c278ec83-b1d4-46cc-8e28-6f11a4010d67.png)
 
 · Add a bucket of purified water so you can bathe, you have to put it under the shower.
 
